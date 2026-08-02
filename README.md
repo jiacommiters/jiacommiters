@@ -51,25 +51,24 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jiacommiters&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiacommiters&theme=tokyonight"
+    width="48%"
     alt="Dzia Ilhaqi's GitHub statistics"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=jiacommiters&theme=tokyonight&hide_border=true"
-    width="49%"
+    width="48%"
     alt="Dzia Ilhaqi's GitHub contribution streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiacommiters&layout=compact&theme=tokyonight&hide_border=true"
-    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiacommiters&theme=tokyonight"
+    width="48%"
     alt="Most used programming languages"
   />
 </p>
-
 ---
 
 <p align="center">
