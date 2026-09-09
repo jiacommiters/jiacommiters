@@ -50,7 +50,7 @@ A company profile website with a custom CMS, built to let the team manage its co
 - Dedicated management for articles, services, leadership profiles, and divisions.
 - Responsive public pages paired with an authenticated admin area.
 
-[Explore the project →](https://github.com/jiacommiters/bumiput-company-profile)
+[Explore the project →](https://bumiputerasekuritas.co.id)
 
 ## My toolkit
 
