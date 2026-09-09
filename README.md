@@ -1,24 +1,21 @@
 <p align="center">
-  <sub>CODE WITH PURPOSE · BUILD WITH CARE</sub>
-</p>
-
-<h1 align="center">Hey, I'm Dzia Ilhaqi 👋</h1>
-
-<p align="center">
-  <strong>Full-Stack Web Developer</strong><br />
-  Turning ideas into thoughtful interfaces and practical web applications.
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=180&amp;color=0:0D1117,50:1E293B,100:312E81&amp;text=Dzia%20Ilhaqi&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=42&amp;desc=FULLSTACK%20WEB%20DEVELOPER&amp;descSize=14&amp;descAlignY=66" width="100%" alt="Dzia Ilhaqi — Fullstack Web Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&height=42&lines=Astro+%C2%B7+Laravel+%C2%B7+Tailwind+CSS;From+responsive+interfaces+to+custom+CMS;Always+learning.+Always+building." alt="Astro, Laravel, and Tailwind CSS — from responsive interfaces to custom CMS" />
+  <b>Thoughtful interfaces. Maintainable applications.</b><br />
+  I build for the web, from the first screen to the logic behind it.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dziailhaqi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0F172A?style=for-the-badge&labelColor=0284C7" alt="Connect with Dzia on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-1E293B?style=for-the-badge&amp;labelColor=1E293B&amp;color=70A5FD" alt="Connect with Dzia Ilhaqi on LinkedIn" />
+  </a>
+  <a href="https://github.com/jiacommiters?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore_my_work-1E293B?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF&amp;labelColor=1E293B&amp;color=BB9AF7" alt="Explore my repositories on GitHub" />
   </a>
   <a href="https://www.instagram.com/ziaaa_fri/">
-    <img src="https://img.shields.io/badge/Instagram-%40ziaaa__fri-0F172A?style=for-the-badge&labelColor=0284C7" alt="Find Dzia on Instagram at ziaaa_fri" />
+    <img src="https://img.shields.io/badge/Instagram-%40ziaaa__fri-1E293B?style=for-the-badge&amp;logo=instagram&amp;logoColor=FFFFFF&amp;labelColor=1E293B&amp;color=70A5FD" alt="Follow @ziaaa_fri on Instagram" />
   </a>
 </p>
 
@@ -26,71 +23,55 @@
   <sub>Open to collaboration, freelance projects, and new opportunities.</sub>
 </p>
 
----
-
 ## A little about me
 
-I'm a web developer who enjoys connecting the pieces: the interface people see, the logic behind it, and the tools that make a website easy to manage.
+I'm Dzia, a fullstack web developer working with **Astro**, **Laravel**, and **Tailwind CSS**. I care about responsive interfaces, clear application structure, and code that's easy to come back to.
 
-I work primarily with **Astro**, **Laravel**, and **Tailwind CSS**, with a focus on responsive layouts, maintainable code, and practical content management.
-
-- **Frontend:** translating ideas into clear, responsive interfaces.
-- **Backend:** building application logic, REST APIs, and custom CMS workflows.
-- **Always exploring:** cleaner architecture and better experiences for the people using what I build.
+This is where I share what I'm building and put what I learn into practice.
 
 ## Selected work
 
-### Bumiputera Sekuritas · Company Website & CMS
-
-A company profile website with a custom CMS, built to let the team manage its content without editing code.
-
-**Laravel · Blade · Tailwind CSS · REST API**
-
-- Fixed-page editing for existing website pages.
-- Dedicated management for articles, services, leadership profiles, and divisions.
-- Responsive public pages paired with an authenticated admin area.
-
-[Explore the project →](https://github.com/jiacommiters/bumiput-company-profile)
+| Project | What you'll find |
+| :--- | :--- |
+| **[Agenium · Company Profile](https://github.com/jiacommiters/agenium-profile-company)**<br /><sub>Astro · Tailwind CSS</sub> | A bilingual landing page for an LPG inventory and distribution platform, with English and Indonesian language switching. |
+| **[Agenium · Dashboard](https://github.com/jiacommiters/agenium-dashboard)**<br /><sub>Laravel · PHP</sub> | The Agenium dashboard codebase, built with Laravel. |
+| **[Personal Portfolio](https://github.com/jiacommiters/portofolio-jia)**<br /><sub>Astro</sub> | The source behind my personal portfolio website. |
 
 ## My toolkit
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frameworks & styling** | <img src="https://skillicons.dev/icons?i=astro,laravel,tailwind&theme=dark" height="42" alt="Astro, Laravel, Tailwind CSS" /><br />Astro · Laravel · Tailwind CSS |
-| **Languages** | <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" height="42" alt="HTML, CSS, JavaScript, PHP" /><br />HTML · CSS · JavaScript · PHP |
-| **Everyday tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="42" alt="Git, GitHub, Visual Studio Code" /><br />Git · GitHub · VS Code |
+<p>
+  <b>Frameworks &amp; styling</b><br /><br />
+  <img src="https://skillicons.dev/icons?i=astro,laravel,tailwind&amp;theme=dark" height="48" alt="Astro, Laravel, and Tailwind CSS" /><br />
+  <sub>Astro · Laravel · Tailwind CSS</sub>
+</p>
+
+<p>
+  <b>Languages</b><br /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php&amp;theme=dark" height="48" alt="HTML, CSS, JavaScript, and PHP" /><br />
+  <sub>HTML · CSS · JavaScript · PHP</sub>
+</p>
+
+<p>
+  <b>Tools</b><br /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" height="48" alt="Git, GitHub, and Visual Studio Code" /><br />
+  <sub>Git · GitHub · VS Code</sub>
+</p>
+
+## GitHub activity
 
 <details>
-  <summary><strong>A look at my GitHub activity</strong></summary>
-
+  <summary><b>GitHub activity &amp; language breakdown</b></summary>
   <br />
-
   <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=jiacommiters&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=38BDF8&icon_color=38BDF8" width="440" alt="Dzia Ilhaqi's GitHub statistics" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=jiacommiters&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" width="495" alt="Dzia Ilhaqi's GitHub statistics" />
   </p>
-
   <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jiacommiters&theme=tokyonight&hide_border=true" width="440" alt="Dzia Ilhaqi's GitHub contribution streak" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=jiacommiters&amp;theme=tokyonight&amp;hide_border=true" width="495" alt="Dzia Ilhaqi's GitHub contribution streak" />
   </p>
-
   <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jiacommiters&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=38BDF8" width="360" alt="Languages detected in Dzia's repositories" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jiacommiters&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" width="400" alt="Most used languages across Dzia Ilhaqi's repositories" />
   </p>
-
   <p align="center">
-    <sub>These cards are generated by an external service. Language statistics reflect repository code, not proficiency.</sub>
+    <sub>Language usage reflects repository code, not skill level.</sub>
   </p>
 </details>
-
----
-
-<h3 align="center">Have something in mind? Let's build it.</h3>
-
-<p align="center">
-  A website, a CMS, or a collaboration — I'd love to hear about it.<br />
-  <a href="https://www.linkedin.com/in/dziailhaqi/"><strong>Start a conversation ↗</strong></a>
-</p>
-
-<p align="center">
-  <sub>Thoughtful interfaces. Practical solutions. Continuous learning.</sub>
-</p>
